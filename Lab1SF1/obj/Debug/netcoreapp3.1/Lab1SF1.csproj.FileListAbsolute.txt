@@ -1,0 +1,16 @@
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\bin\Debug\netcoreapp3.1\Lab1SF1.exe
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\bin\Debug\netcoreapp3.1\Lab1SF1.deps.json
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\bin\Debug\netcoreapp3.1\Lab1SF1.runtimeconfig.json
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\bin\Debug\netcoreapp3.1\Lab1SF1.runtimeconfig.dev.json
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\bin\Debug\netcoreapp3.1\Lab1SF1.dll
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\bin\Debug\netcoreapp3.1\Lab1SF1.pdb
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\obj\Debug\netcoreapp3.1\Lab1SF1.csprojAssemblyReference.cache
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\obj\Debug\netcoreapp3.1\Lab1SF1.AssemblyInfoInputs.cache
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\obj\Debug\netcoreapp3.1\Lab1SF1.AssemblyInfo.cs
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\obj\Debug\netcoreapp3.1\Lab1SF1.csproj.CoreCompileInputs.cache
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\obj\Debug\netcoreapp3.1\Lab1SF1.csproj.CopyComplete
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\obj\Debug\netcoreapp3.1\Lab1SF1.dll
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\obj\Debug\netcoreapp3.1\Lab1SF1.pdb
+C:\Users\Стас\source\repos\Lab1SF1\Lab1SF1\obj\Debug\netcoreapp3.1\Lab1SF1.genruntimeconfig.cache

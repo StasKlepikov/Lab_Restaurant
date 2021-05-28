@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwC7q1nPTvlzUmQfxIG+LSzJ+806L+UPkQj5KRuIUjHUy130mhD0JpqzkrBOqf2IEPNs1ZLbobM2h1ekNPoAcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Стас\\source\\repos\\Lab1SF1\\Lab1SF1\\Lab1SF1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Стас\\.nuget\\packages\\documentformat.openxml\\2.12.3\\documentformat.openxml.2.12.3.nupkg.sha512",
+    "C:\\Users\\Стас\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
